@@ -13,12 +13,17 @@ The project aims to work asynchronously with a remote server. The todo list has 
 
 ## **The page is loaded**
 <p align="center">
-<img  src="./readme_assets/Task.png" width="80%">
+<img  src="./readme_assets/Task.png" width="50%">
 </p>
 
 ## **Deleting and adding a new todo**
 <p align="center">
-<img  src="./readme_assets/Add and remove tasks.png" width="80%">
+<img  src="./readme_assets/Add and remove tasks.png" width="40%">
+</p>
+
+## **Error handling when making a request to a remote server**
+<p align="center">
+<img  src="./readme_assets/Error.png" width="40%">
 </p>
 
 ## I invite you to see my other projects.
