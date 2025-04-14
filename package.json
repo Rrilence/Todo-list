@@ -2,6 +2,8 @@
   "name": "todo",
   "version": "1.0.0",
   "main": "app1.js",
+  "homepages": "https://Rrilence.github.io/Todo-list",
+
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build index.html --out-dir=build",
